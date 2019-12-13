@@ -1,0 +1,8 @@
+1) cree une nouvel base de donnee MYSQL : chocolaterie
+2) import la base : base  chocolaterie.sql
+3) il ya un compte par default pour la secretariat : 
+  login = admin@gmail.com
+  password =admin
+4) et un compte par default pour le stagiaire :
+ login = stage@gmail.com
+  password =stage 
